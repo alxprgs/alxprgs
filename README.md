@@ -73,4 +73,3 @@ A logistics management REST API built to handle cargo delivery using unmanned ae
 I fully manage and maintain my own digital infrastructure hosted on the **asfes.ru** domain:
 * 🌐 **Domain:** [asfes.ru](https://asfes.ru)
 * 📧 **Email:** [admin@asfes.ru](mailto:admin@asfes.ru)
-* 🖥️ **Mail Service:** [mail.asfes.ru](https://mail.asfes.ru)
